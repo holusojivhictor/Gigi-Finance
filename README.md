@@ -1,6 +1,6 @@
 # gigi_finance
 
-A new Flutter project.
+Finance app UI implemented with Flutter.
 
 ## Getting Started
 
